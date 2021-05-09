@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Pro</string>
+    <string name="name">Name</string>
+    <string name="tele">Tele</string>
+    <string name="search">Search</string>
+    <string name="floating_button">floating button</string>
+    <string name="image">image</string>
+    <string name="phone">phone</string>
+</resources>

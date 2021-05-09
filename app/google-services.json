@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271008139199",
+    "project_id": "contact-pro-da5d6",
+    "storage_bucket": "contact-pro-da5d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271008139199:android:c72472ecafe850e19dc30a",
+        "android_client_info": {
+          "package_name": "com.example.dt.contactpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271008139199-bp6ln1entlola67m2dto72qieg2u9p5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dt.contactpro",
+            "certificate_hash": "0e38fd4929b7863a0549ec31960c739019f4add4"
+          }
+        },
+        {
+          "client_id": "271008139199-9l5ep4uli030jn8a2843gniitnctsas2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RpanqZQ_ebKNMG_yRbf2Dwt-TbW8rOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271008139199-9l5ep4uli030jn8a2843gniitnctsas2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
